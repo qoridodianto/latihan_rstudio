@@ -1,6 +1,6 @@
 teks1 = "Selamat datang di dunia R"
 teks2 = "Anda akan terkesima dengan kehebatannya"
-
+teks3 = 'yuk bisa yuk'
 teks1
 teks2
 
