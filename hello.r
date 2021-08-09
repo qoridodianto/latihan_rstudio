@@ -1,8 +1,2 @@
 teks1 = "Selamat datang di dunia R"
-teks2 = "Anda akan terkesima dengan kehebatannya"
-teks3 = 'yuk bisa yuk'
-teks1
-teks2
-
-list1 = list("Sate Kambing", "Gado gado", "Pecel lele")
-list1
+teks2 = "yukbisayuk"
