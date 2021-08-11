@@ -45,3 +45,4 @@ mydata <- data.frame(id,names,score)
 #menambahkan nama kolom
 names(mydata) <- c("ID","Nama","Nilai")
 print(mydata)
+
